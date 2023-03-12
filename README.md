@@ -1,2 +1,4 @@
 # Frontend-Mentor_QRcode
- desafio 1
+
+. (https://devsrpereira.github.io/Frontend-Mentor_QRcode/)
+
